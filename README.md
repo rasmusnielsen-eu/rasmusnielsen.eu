@@ -18,12 +18,7 @@ Mit seneste og mest ambitiøse projekt - en innovativ platform til tidsstyring o
 - Produktivitet  
 - Modern UI
 
-## Teknologier brugt
-
-- **Frontend:** HTML5, CSS3, JavaScript
-- **Design:** Modern responsivt design
-- **Hosting:** GitHub Pages
-- **Domain:** rasmusnielsen.eu
+## Teknologier brugt- **Frontend:** HTML5, CSS3, JavaScript- **Design:** Modern responsivt design- **Hosting:** GitHub Pages- **Domain:** rasmusnielsen.eu- **Udvikling:** Cursor IDE med Claude AI assistance
 
 ## Links🌐 **Website:** [rasmusnielsen.eu](https://rasmusnielsen.eu)
 
@@ -33,4 +28,4 @@ Siden er automatisk deployed via GitHub Pages fra `main` branch.
 
 ---
 
-© 2024 Rasmus Nielsen. Alle rettigheder forbeholdt. 
+© 2025 Rasmus Nielsen. Alle rettigheder forbeholdt. 

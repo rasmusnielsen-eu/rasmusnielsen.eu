@@ -79,5 +79,5 @@ Value: rasmusnielsen-eu.github.io
 
 ---
 
-📝 **Sidste opdatering:** 2024-12-19  
+📝 **Sidste opdatering:** 2025-05-01  
 🔗 **GitHub Repo:** https://github.com/rasmusnielsen-eu/rasmusnielsen.eu 

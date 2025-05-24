@@ -25,11 +25,7 @@ Mit seneste og mest ambitiøse projekt - en innovativ platform til tidsstyring o
 - **Hosting:** GitHub Pages
 - **Domain:** rasmusnielsen.eu
 
-## Kontakt
-
-📧 **Email:** mail@rasmusnielsen.eu  
-🌐 **Website:** [rasmusnielsen.eu](https://rasmusnielsen.eu)  
-💼 **GitHub:** [rasmusnielsen-eu](https://github.com/rasmusnielsen-eu)
+## Links🌐 **Website:** [rasmusnielsen.eu](https://rasmusnielsen.eu)
 
 ## Deployment
 
